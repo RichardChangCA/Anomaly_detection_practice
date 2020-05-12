@@ -19,3 +19,5 @@ Autoencoder can do dimensionality reduction, which is better than PCA. Antoencod
 - Supervised ML algorithms: logistic regression, neural net, time-series analysis
 
 - Unsupervised ML algorithms: Cluster analysis, Bayesian network, Peer group analysis, break point analysis, Benford’s law (law of anomalous numbers)
+
+5. Medium, Feature Engineering for Credit Card Fraud Detection https://towardsdatascience.com/how-to-create-good-features-in-fraud-detection-de6562f249ef you can simply find some obvious anomalies and write hard rules to detect them without ML models, like the example of transaction between NY and Boston case in this article. Maybe some data points with some certrain features are more likely to be anomalies. You can also create some innovative features based on original dataset features to detect anomalies efficiently. The difficulty is how to create useful features, and there are several papers in this article which may give some insights.
