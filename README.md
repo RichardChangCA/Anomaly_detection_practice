@@ -8,6 +8,8 @@ autoencoder is an unsupervised learning method, threshold to determine whether a
 
 2. Medium, Anomaly Detection with Autoencoders Made Easy: https://towardsdatascience.com/anomaly-detection-with-autoencoder-b4cdce4866a6
 
+Autoencoder can do dimensionality reduction, which is better than PCA. Antoencoder can find the main pattern of the majority class, which can reveal outliers. Interestingly, during the process of dimensionality reduction, outliers are identified. We can say outlier detection is a by-product of dimension reduction. PCA is a linear-transoformation dimentionality reduction and autoencoder is a non-linear-transfomation dimentionality reduction. In addition, there are several hyper-links inside of this article(why anomaly detection, feature enginnering in anomaly detection, etc.). PyOD is a Pyhton package for anomly detection. the outlier is a data point that generated new input is distant from other data points. You can also use ensemble learning to combine many outlier detection models together to predict outliers, to avoid overfitting.
+
 3. Medium, Fraud Detection Under Extreme Class Imbalance: https://towardsdatascience.com/fraud-detection-under-extreme-class-imbalance-c241854e60c
 
 4. Medium, Fraud detection: the problem, solutions and tools: https://towardsdatascience.com/fraud-detection-the-problem-solutions-and-tools-dd8977b435c9
