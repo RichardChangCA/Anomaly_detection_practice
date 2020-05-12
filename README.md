@@ -2,8 +2,16 @@
 
 <h3>Useful study resouces</h3>
 
-1. Credit Card Fraud Detection using Autoencoders in Keras: https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd
+1. Medium, Credit Card Fraud Detection using Autoencoders in Keras: https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd
 
-2. Anomaly Detection with Autoencoders Made Easy: https://towardsdatascience.com/anomaly-detection-with-autoencoder-b4cdce4866a6
+2. Medium, Anomaly Detection with Autoencoders Made Easy: https://towardsdatascience.com/anomaly-detection-with-autoencoder-b4cdce4866a6
 
-3. Fraud Detection Under Extreme Class Imbalance: https://towardsdatascience.com/fraud-detection-under-extreme-class-imbalance-c241854e60c
+3. Medium, Fraud Detection Under Extreme Class Imbalance: https://towardsdatascience.com/fraud-detection-under-extreme-class-imbalance-c241854e60c
+
+4. Medium, Fraud detection: the problem, solutions and tools: https://towardsdatascience.com/fraud-detection-the-problem-solutions-and-tools-dd8977b435c9
+
+- Statistical techniques: average, quantiles, probability distribution, association rules
+
+- Supervised ML algorithms: logistic regression, neural net, time-series analysis
+
+- Unsupervised ML algorithms: Cluster analysis, Bayesian network, Peer group analysis, break point analysis, Benford’s law (law of anomalous numbers)
