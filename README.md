@@ -27,3 +27,6 @@ Autoencoder can do dimensionality reduction, which is better than PCA. Antoencod
 7. Medium, A Simplified approach using PyCaret for Anomaly Detection, https://towardsdatascience.com/a-simplified-approach-using-pycaret-for-anomaly-detection-7d33aca3f066 ,PyCaret package, pre-defined anomaly detection algorithms available, 3d visualization
 
 8. Medium, Fraud detection — Unsupervised Anomaly Detection, https://towardsdatascience.com/fraud-detection-unsupervised-anomaly-detection-df43d81fce67 ,representation learning. latent representation: compress the data and then reconstruct data, if similar to original data, then normal, else, abnormal. TSNE, reconstruction score, PCA, autoencoder, ensemble PCA and autoencoder. GitHub Link: https://github.com/lmeazzini/Small-projects/blob/master/Credit_fraud.ipynb Youtube StatQuest: t-SNE: https://www.youtube.com/watch?v=NEaUSP4YerM ,project high dimension data to low dimension graph, same cluster attracts, different clusters repel. t-distribution, unscaled to scaled score and then similarity matrix.
+
+9. Medium, Outlier Detection — Theory, Visualizations, and Code
+, https://towardsdatascience.com/outlier-detection-theory-visualizations-and-code-a4fd39de540c , causes, applications, approaches, Algorithms: Isolation Forest, Local Outlier Factor, DBSCAN, One Class SVM, ensemble.
